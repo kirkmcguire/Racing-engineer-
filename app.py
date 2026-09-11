@@ -1,4 +1,4 @@
-        {
+
             "parameter": "On-throttle differential",
             "direction": "increase",
             "amount_hint": "+5% to +10%",
